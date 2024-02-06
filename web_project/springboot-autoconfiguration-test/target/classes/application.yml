@@ -1,0 +1,7 @@
+#阿里云OSS
+aliyun:
+  oss:
+    endpoint: https://oss-cn-hangzhou.aliyuncs.com
+    accessKeyId: LTAI5tN7d7TXnCBZcM7eSXTf
+    accessKeySecret: xdUSEwwu66TkculDEa8i7J1bl0xzQr
+    bucketName: web-frameworkmwj

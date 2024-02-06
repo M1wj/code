@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tilas-pojo" />
+        <module name="springboot-web-config" />
+        <module name="tilas-utils" />
+        <module name="tlias-web-management-my" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="springboot-web-config" target="11" />
+      <module name="tilas-parent" target="11" />
+      <module name="tilas-pojo" target="11" />
+      <module name="tilas-utils" target="11" />
+      <module name="tlias-web-management-my" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tilas-pojo" options="-parameters" />
+      <module name="tilas-utils" options="-parameters" />
+      <module name="tlias-web-management-my" options="-parameters" />
+    </option>
+  </component>
+</project>

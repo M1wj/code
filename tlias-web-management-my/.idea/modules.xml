@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../tilas-parent/tilas-parent.iml" filepath="$PROJECT_DIR$/../tilas-parent/tilas-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tilas-pojo/tilas-pojo.iml" filepath="$PROJECT_DIR$/../tilas-pojo/tilas-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tilas-utils/tilas-utils.iml" filepath="$PROJECT_DIR$/../tilas-utils/tilas-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tlias-web-management-my.iml" filepath="$PROJECT_DIR$/tlias-web-management-my.iml" />
+    </modules>
+  </component>
+</project>
